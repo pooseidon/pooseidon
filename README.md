@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi brother,I'm pooseidon,Eager to explore technologies 👋
+- 🌱 I’m currently learning AI.
+- 🤔 I’m looking for some friends~
+### Glad to have you alongside me.
 <!--
 **pooseidon/pooseidon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
