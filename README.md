@@ -3,8 +3,8 @@
 - 🤔 I’m looking for some friends~
 ### Glad to have you alongside me.
 
-# 主页访问量统计
-![Visitor Count](https://profile-counter.glitch.me/pooseidon.com/count.svg)
+### 主页访问量统计
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pooseidon.pooseidon)
 <!--
 **pooseidon/pooseidon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
